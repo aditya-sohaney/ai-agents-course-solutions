@@ -1,6 +1,8 @@
 # AI Agents Course — Reference Solutions
 
-Private instructor-only reference implementations for the eight projects in `ai-agents-course-projects`. These are strong, intentionally compact student-style submissions: clear enough to teach from, complete enough to run, and small enough for students to understand. Do not link this repository from the public course materials.
+Private instructor-only reference implementations for the projects in `ai-agents-course-projects`. These are strong, intentionally compact student-style submissions: clear enough to teach from, complete enough to run, and small enough for students to understand. Do not link this repository from the public course materials.
+
+> **Current handoff status:** Reference solutions for Projects 1–6 are complete and tested offline. Projects 7–8 are intentionally listed as pending after the September 28, 2026 checkpoint; their folders have not been published as incomplete work.
 
 ## Index
 
@@ -12,9 +14,9 @@ Private instructor-only reference implementations for the eight projects in `ai-
 | 4 | [Stateful Knowledge Agent](04-memory-and-rag-agent/) | `python knowledge_agent.py --mock ask --user ada "When is quiet hour?"` |
 | 5 | [Agent Evals](05-agent-evals/) | `python run_evals.py --mock` |
 | 6 | [Research Brief Studio `[GROUP]`](06-multi-agent-system-[GROUP]/) | `python -m ui.cli --mock "What improves student retention?"` |
-| 7 | [Operations Orchestrator `[GROUP]`](07-orchestration-project-[GROUP]/) | `python -m ui.cli --mock create "Reset my lab access"` |
-| 8A | [Capstone: Research Assistant](08-capstone/example-a-research-assistant/) | `python app.py --mock research "heat resilience"` |
-| 8B | [Capstone: Local Business Support](08-capstone/example-b-local-business-support/) | `python app.py --mock handle "Can I reschedule?"` |
+| 7 | Operations Orchestrator `[GROUP]` — **pending** | Not yet published |
+| 8A | Capstone: Research Assistant — **pending** | Not yet published |
+| 8B | Capstone: Local Business Support — **pending** | Not yet published |
 
 ## Running a solution
 
@@ -35,4 +37,3 @@ Every command supports `--mock` or `MOCK_LLM=1`. Mock mode uses deterministic lo
 - Use `INSTRUCTOR_NOTES.md` to connect files to objectives, anticipate misconceptions, and calibrate rubric scores.
 - Re-run sample/evaluation commands before a term begins; live model behavior and provider prices can change.
 - Never distribute this complete repository to a current class. Extract only the narrow excerpts needed for instruction.
-
