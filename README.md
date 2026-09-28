@@ -2,7 +2,7 @@
 
 Private instructor-only reference implementations for the projects in `ai-agents-course-projects`. These are strong, intentionally compact student-style submissions: clear enough to teach from, complete enough to run, and small enough for students to understand. Do not link this repository from the public course materials.
 
-> **Current handoff status:** Reference solutions for Projects 1–6 are complete and tested offline. Projects 7–8 are intentionally listed as pending after the September 28, 2026 checkpoint; their folders have not been published as incomplete work.
+> **Current handoff status:** Reference solutions for Projects 1–5 are complete and tested offline. Project 6 has a complete, tested deterministic/offline teaching path; its live-provider specialist adapter is still pending. Projects 7–8 are intentionally listed as pending after the September 28, 2026 checkpoint; their folders have not been published as incomplete work.
 
 ## Index
 
