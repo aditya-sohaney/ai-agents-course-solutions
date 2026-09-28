@@ -1,0 +1,8 @@
+.env
+__pycache__/
+.pytest_cache/
+memory.sqlite3
+trace.jsonl
+data/docs/*.md
+!data/docs/.gitkeep
+

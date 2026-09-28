@@ -1,0 +1,16 @@
+{"id":"doc-quiet","type":"document","question":"When do residence quiet hours begin?","expected_document":"quiet_spaces"}
+{"id":"doc-aid","type":"document","question":"What is the priority aid deadline?","expected_document":"aid_deadlines"}
+{"id":"doc-goggles","type":"document","question":"When are splash goggles required?","expected_document":"lab_safety"}
+{"id":"doc-shuttle","type":"document","question":"How often does the Blue Loop shuttle run?","expected_document":"transit_guide"}
+{"id":"doc-counseling","type":"document","question":"How many counseling visits are free?","expected_document":"wellness_services"}
+{"id":"doc-ethics","type":"document","question":"When is ethics review required?","expected_document":"research_ethics"}
+{"id":"doc-transit-hours","type":"document","question":"What are weekday Blue Loop operating hours?","expected_document":"transit_guide"}
+{"id":"doc-aid-review","type":"document","question":"Which aid files receive review first?","expected_document":"aid_deadlines"}
+{"id":"unknown-mascot","type":"unanswerable","question":"What is the campus mascot?"}
+{"id":"unknown-tuition","type":"unanswerable","question":"How much is tuition?"}
+{"id":"unknown-football","type":"unanswerable","question":"Who coaches football?"}
+{"id":"memory-save","type":"memory","question":"I prefer concise answers","expected":"saved"}
+{"id":"memory-recall","type":"memory_recall","question":"What response style do I prefer?","expected":"concise"}
+{"id":"memory-update","type":"memory_update","question":"I prefer detailed answers","expected":"detailed"}
+{"id":"memory-isolation","type":"isolation","question":"What response style do I prefer?","expected":"not saved"}
+
