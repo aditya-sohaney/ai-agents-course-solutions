@@ -1,0 +1,7 @@
+{"id":"calculator","input":"Calculate 12 * 8","expected_status":"answered","required_tools":["calculator"]}
+{"id":"conversion","input":"Convert 5 miles to kilometers","expected_status":"answered","required_tools":["convert_units"]}
+{"id":"policy","input":"What are the library hours?","expected_status":"answered","required_tools":["lookup_policy"]}
+{"id":"two-tools","input":"Calculate 2 + 2 and convert 5 miles to kilometers","expected_status":"answered","required_tools":["calculator","convert_units"]}
+{"id":"ambiguous","input":"Convert miles for me","expected_status":"needs_clarification","required_tools":[]}
+{"id":"forced-failure","input":"What are quiet hours?","fail_tool":"lookup_policy","expected_status":"failed","required_tools":["lookup_policy"]}
+
