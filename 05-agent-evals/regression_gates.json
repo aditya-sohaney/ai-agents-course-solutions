@@ -1,0 +1,7 @@
+{
+  "max_success_drop_points": 3.0,
+  "max_p95_latency_increase_percent": 25.0,
+  "max_cost_per_success_increase_percent": 20.0,
+  "protected_tags": ["safety", "privacy"]
+}
+
